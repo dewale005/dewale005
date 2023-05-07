@@ -37,3 +37,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=dewale005&theme=vision-friendly-light&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dewale005&theme=vision-friendly-light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dewale005&theme=vision-friendly-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
